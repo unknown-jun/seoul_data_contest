@@ -12,7 +12,7 @@
 
 ## 2. 지수화
 ### 변수간 영향력
-![image](https://user-images.githubusercontent.com/70187490/147398052-5793d4f7-6b81-406d-b0c0-59f56181d97e.png)
+![image](https://user-images.githubusercontent.com/70187490/147720926-0ab1bf85-bab8-49da-8bdf-5cddb3b88f2e.png)
 
 위의 변수들을 다음과 같은 과정을 거쳐 지수화 시켰습니다.  
 ![image](https://user-images.githubusercontent.com/70187490/147397769-d42fbd4d-521b-44a4-bea4-b0661c255b98.png)
