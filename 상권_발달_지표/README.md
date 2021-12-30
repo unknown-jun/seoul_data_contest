@@ -21,7 +21,7 @@
 전처리 이후의 상권 발달 총 테이블의 사이즈는 (1009, 55)로 변수가 많았습니다.  
 이를 바로 지수화를 할 시에는 차원의 저주 및 과적합이 우려되기 때문에 단계적 선택법(Stepwise)를 통해 변수의 수를 줄였습니다.  
 ### 변수간 영향력
-![image](https://user-images.githubusercontent.com/70187490/147397799-f8eab8e1-3e0a-4a65-aa90-94d374953e67.png)
+![image](https://user-images.githubusercontent.com/70187490/147720846-0613f2b0-4ed6-4e6a-bc9d-5cf38baf7422.png)
 
 단계적 선택법을 통해 유의미한 변수를 17개로 축소화시켰으며 다음과 같은 과정을 통해 지수화 시켰습니다.  
 ![image](https://user-images.githubusercontent.com/70187490/147397769-d42fbd4d-521b-44a4-bea4-b0661c255b98.png)
